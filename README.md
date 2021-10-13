@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/6b2974fb-2dc5-434b-a8b5-12a6c827e6c6.svg)](https://wakatime.com/@6b2974fb-2dc5-434b-a8b5-12a6c827e6c6)
+
 <!--
 **sagegwatkin/sagegwatkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
